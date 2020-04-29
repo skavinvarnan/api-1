@@ -23,6 +23,11 @@ When a new report/bulletin is released from a state regarding confirmed cases :
 All other aggregate APIs retain the same behaviour. 
 CSV files for the same are also available through `api.covid19india.org/csv/latest/raw_data{n}.csv`
 
+### API's
+API for current cases, statewise, districtwise and historical data of India COVID-19
+- **Graphql playground** - https://covidstat.info/graphql
+- **API documentation** - https://github.com/COVID19-SARS-CoV-2/web-covid-api/blob/master/india_apis.md
+
 
 ### JSON
 
